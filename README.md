@@ -1,4 +1,4 @@
-# To-do web application
+# Digital Clock application
 
 ## Welcome to my project guys! 👋
 
